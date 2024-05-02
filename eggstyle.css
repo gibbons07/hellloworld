@@ -1,10 +1,22 @@
-h1{
-color:LightGray;
-  background-color:Blush;
-}
- <body style = "color:violet;background-color:LightGray;font-family:New Times Roman;">
- <body style = "color:LightSteelBlue;background-color:LavenderBlush;font-family:New Times Roman;">
 
-  <h1>frozen frogs are cool</h1>
+​h1 { 
+color:black;
+  background-color:pink;
+text-align: center;
+} 
+p{
+font-size: 35px;
+color:lightcoral; 
+text-align: center;
+font-family: Georgia, serif;
+}
+body{
+
+color:pink;
+background-color:black;
+
+
+  
+}
 
 
