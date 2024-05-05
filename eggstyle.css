@@ -1,11 +1,8 @@
 
 ​h1 { 
 
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
+
 color:LightGray;
-  background-color:Blush;
 text-align: center;
 } 
 p{
@@ -16,6 +13,10 @@ font-family: Georgia, serif;
 }
 body{
 
+background-image:url(https://i.pinimg.com/236x/84/2d/26/842d26bdd8453894e958c4c989a3bdfe.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 color:Aliceblue;
 background-color:Pink;
 
